@@ -4,7 +4,7 @@ Yet another tiny JSON parser for C++17.
 
 ## Why femto?
 
-Inspired by PicoJSON.
+Inspired by [PicoJSON](https://github.com/kazuho/picojson).
 
 ## See also
 
